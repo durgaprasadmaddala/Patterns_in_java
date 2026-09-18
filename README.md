@@ -5,6 +5,17 @@ Java Learning Journey | Pattern Programs in Java 🚀
 
 complete read me file large discription
 Java Pattern Programs
+1. What Are Patterns in Java?
+
+A pattern is a sequence of symbols, numbers, or characters arranged in a particular shape using programming logic.
+
+For example:
+
+*
+**
+***
+****
+*****
 📌 Project Overview
 
 This repository contains a collection of Pattern Programs in Java designed to improve programming logic, problem-solving skills, and understanding of loops and conditional statements.
