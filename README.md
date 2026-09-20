@@ -1,4 +1,5 @@
 # Patterns_in_java
+In Java, pattern programming is a common exercise used to master nested loops (like for and while loops) and control statements. These programs print shapes, numbers, or characters in structured alignments.The fundamental rules for most pattern building are:The Outer Loop controls the rows (how many lines are printed).The Inner Loop(s) control the columns (what is printed inside each row, such as spaces or characters)
 Java Learning Journey: Pattern Programs  Mastering Patterns in Java Using Loops  Java Pattern Programming: Building Logic Step by Step
 
 Java Learning Journey | Pattern Programs in Java 🚀
